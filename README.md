@@ -27,5 +27,5 @@ C++, pftttt java is better.
 
 ## Stats
 ![namespace's GitHub stats](https://github-readme-stats.vercel.app/api?username=namespaceprogram&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namspaceprogram&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namespaceprogram&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![namspace's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=namespaceprogram&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
